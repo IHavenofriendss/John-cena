@@ -707,7 +707,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         ],
                         [
                             InlineKeyboardButton(
-                                "⚜ Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs ⚜", url="https://t.me/+uuLR9YwyRjg0ODQ0"
+                                "Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs ⚜", url="https://t.me/+uuLR9YwyRjg0ODQ0"
                             )
                         ]
                     ]
@@ -1186,9 +1186,9 @@ async def auto_filter(client, msg, spoll=False):
                 else:
                     Send_message = await client.send_video(
                         chat_id=msg.chat.id,
-                        video="https://telegra.ph/file/3e9f7db0c98e6b236c2c7.mp4",
+                        video="https://telegra.ph/file/1fbdc1703b58c5c0ed242.mp4",
                         caption=f"Couldn't Find This Movie.Please Try Again Or Search On Our "
-                                f"<b><a href='https://t.me/+uuLR9YwyRjg0ODQ0'>Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs</a></b>. \n\n"
+                                f"<b><a href='https://t.me/onlyseries76'>Series</a></b>. \n\n"
                                 f"ഈ സിനിമയുടെ ഒറിജിനൽ പേര് ഗൂഗിളിൽ പോയി കണ്ടെത്തി അതുപോലെ ഇവിടെ കൊടുക്കുക 🥺",
                         reply_to_message_id=msg.id
                     )
@@ -1269,15 +1269,15 @@ async def auto_filter(client, msg, spoll=False):
         )
 
     btn.insert(0, [
-        InlineKeyboardButton("🧲 Tᴏʀʀᴇɴᴛ Gʀᴏᴜᴘ", url="https://t.me/UFSLeechPublic")
+        InlineKeyboardButton("Gʀᴏᴜᴘ", url="https://t.me/onlymovie56")
     ])
     btn.insert(0, [
-        InlineKeyboardButton("ᴘᴍ ᴍᴇ", url="https://t.me/UFSChatBot"),
-        InlineKeyboardButton("⚜ Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs ⚜", url="https://t.me/+uuLR9YwyRjg0ODQ0")
+        InlineKeyboardButton("series", url="https://t.me/onlyseries76"),
+        InlineKeyboardButton("Nᴇᴡ Mᴏᴠɪᴇs", url="https://t.me/onlymovie76")
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("🔄 Nᴇᴡ Uᴘᴅᴀᴛᴇs", url="https://t.me/UFSFilmUpdate")
+        InlineKeyboardButton("Nᴇᴡ Uᴘᴅᴀᴛᴇs", url="https://t.me/M76Links")
     ])
 
     imdb = await get_poster(search, file=(files[0]).file_name) if IMDB else None
@@ -1385,9 +1385,9 @@ async def advantage_spell_chok(client, msg):
     if not g_s:
         Send_message = await client.send_video(
             chat_id=msg.chat.id,
-            video="https://telegra.ph/file/3e9f7db0c98e6b236c2c7.mp4",
+            video="https://telegra.ph/file/1fbdc1703b58c5c0ed242.mp4",
             caption=f"Couldn't Find This Movie.Please Try Again Or Search On Our "
-                    f"<b><a href='https://t.me/+uuLR9YwyRjg0ODQ0'>Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs</a></b>. \n\n"
+                    f"<b><a href='https://t.me/onlyseries76'>Series</a></b>. \n\n"
                     f"ഈ സിനിമയുടെ ഒറിജിനൽ പേര് ഗൂഗിളിൽ പോയി കണ്ടെത്തി അതുപോലെ ഇവിടെ കൊടുക്കുക 🥺",
             reply_to_message_id=msg.id
         )
@@ -1425,9 +1425,9 @@ async def advantage_spell_chok(client, msg):
     if not movielist:
         Send_message = await client.send_video(
             chat_id=msg.chat.id,
-            video="https://telegra.ph/file/3e9f7db0c98e6b236c2c7.mp4",
+            video="https://telegra.ph/file/1fbdc1703b58c5c0ed242.mp4",
             caption=f"Couldn't Find This Movie.Please Try Again Or Search On Our "
-                    f"<b><a href='https://t.me/+uuLR9YwyRjg0ODQ0'>Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs</a></b>. \n\n"
+                    f"<b><a href='https://t.me/onlyseries76'>Series</a></b>. \n\n"
                     f"ഈ സിനിമയുടെ ഒറിജിനൽ പേര് ഗൂഗിളിൽ പോയി കണ്ടെത്തി അതുപോലെ ഇവിടെ കൊടുക്കുക 🥺",
             reply_to_message_id=msg.id
         )
@@ -1463,17 +1463,17 @@ async def advantage_spell_chok(client, msg):
     btn = build_keyboard(btn)
 
     btn.insert(0, [
-        InlineKeyboardButton("⚜ ɴᴇᴡ ᴍᴏᴠɪᴇs ⚜", url="https://t.me/UniversalFilmStudioo"),
-        InlineKeyboardButton("🧲 Tᴏʀʀᴇɴᴛ Gʀᴏᴜᴘ", url="https://t.me/UFSLeechPublic")
+        InlineKeyboardButton("📺 series 📺", url="https://t.me/onlyseries76"),
+        InlineKeyboardButton("🎬 movies 🎬", url="https://t.me/onlymovie76")
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("⚜ Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs ⚜", url="https://t.me/+uuLR9YwyRjg0ODQ0")
+        InlineKeyboardButton("Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs", url="https://t.me/M76Links")
     ])
     #
     # btn.insert(0, [
-    #     InlineKeyboardButton("⭕️ ᴘᴍ ᴍᴇ ⭕️", url="https://t.me/UFSChatBot"),
-    #     InlineKeyboardButton("⚜ ɴᴇᴡ ᴍᴏᴠɪᴇs ⚜", url="https://t.me/UFSNewRelease")
+    #     InlineKeyboardButton("📺 Series 📺", url="https://t.me/onlyseries76"),
+    #     InlineKeyboardButton("🎬 Movies 🎬", url="https://t.me/onlymovie46")
     # ])
 
     d_msg = await msg.reply(f"I Couldn't Find Anything Related To That\n\n"
