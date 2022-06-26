@@ -647,15 +647,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
                                 [
                                     [
                                         InlineKeyboardButton(
-                                            '🎭 Nᴇᴡ Uᴘᴅᴀᴛᴇs', url="https://t.me/UFSFilmUpdate"
+                                            'Nᴇᴡ Uᴘᴅᴀᴛᴇs', url="https://t.me/M76Links"
                                         ),
                                         InlineKeyboardButton(
-                                            '🎭 ᴍᴏᴠɪᴇs', url="https://t.me/UniversalFilmStudio"
+                                            'ᴍᴏᴠɪᴇs', url="https://t.me/onlymovie76"
                                         )
                                     ],
                                     [
                                         InlineKeyboardButton(
-                                            "⚜ Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs ⚜", url="https://t.me/+uuLR9YwyRjg0ODQ0"
+                                            "Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs ⚜", url="https://t.me/onlyseries76"
                                         )
                                     ]
                                 ]
@@ -683,9 +683,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         if f_caption is None:
             f_caption = f"{files.file_name}"
         f_sub_caption = f"<code>💾 Size: {size}</code>\n\n🌟༺ ──•◈•─ ─•◈•──༻🌟\n<b>➧ പുതിയ സിനിമകൾ / വെബ്‌ സീരീസ് " \
-                        f"വേണോ? എന്നാൽ പെട്ടെന്ന് ഗ്രൂപ്പിൽ ജോയിൻ ആയിക്കോ\n\n🔊 Gʀᴏᴜᴘ: " \
-                        f"@UniversalFilmStudio \n🔊 Gʀᴏᴜᴘ: @UniversalFilmStudioo \n🔊 " \
-                        f"Cʜᴀɴɴᴇʟ: <a href='https://t.me/+uuLR9YwyRjg0ODQ0'>Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs</a> \n\n🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят🎗️ </b>"
+                        f"വേണോ? എന്നാൽ പെട്ടെന്ന് ഗ്രൂപ്പിൽ ജോയിൻ ആയിക്കോ\n\n📺 Gʀᴏᴜᴘ: " \
+                        f"@onlyseries76 \n🎬 Gʀᴏᴜᴘ: @onlymovie76 \n🎬 " \
+                        f"Cʜᴀɴɴᴇʟ: <a href='https://t.me/M76Links'>Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs</a> \n\n🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят🎗️ </b>"
 
         f_caption = f_caption + f"\n\n{f_sub_caption}"
         try:
@@ -699,15 +699,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     [
                         [
                             InlineKeyboardButton(
-                                '🎭 Nᴇᴡ Uᴘᴅᴀᴛᴇs', url="https://t.me/UFSFilmUpdate"
+                                'Nᴇᴡ Uᴘᴅᴀᴛᴇs', url="https://t.me/onlyseries76"
                             ),
                             InlineKeyboardButton(
-                                '🎭 ᴍᴏᴠɪᴇs', url="https://t.me/UniversalFilmStudio"
+                                'ᴍᴏᴠɪᴇs', url="https://t.me/onlymovie76"
                             )
                         ],
                         [
                             InlineKeyboardButton(
-                                "Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs ⚜", url="https://t.me/+uuLR9YwyRjg0ODQ0"
+                                "Nᴇᴡ Oᴛᴛ Mᴏᴠɪᴇs", url="https://t.me/M76Links"
                             )
                         ]
                     ]
